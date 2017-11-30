@@ -7,4 +7,4 @@ This is my 360 image
 
 ###Camera effects
 
-![filter](Quad Feed Emblem.pnj?raw=true "Optional Title")
+![filter](Quad Feed Emblem.png?raw=true "Optional Title")
